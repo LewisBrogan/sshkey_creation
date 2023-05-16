@@ -1,0 +1,28 @@
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Dependency directories
+lib/
+libs/
+dist/
+build/
+egg-info/
+.sip/
+
+# IDE-specific files
+.idea/
+.vscode/
+*.pydevproject
+
+# Log files
+*.log
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
