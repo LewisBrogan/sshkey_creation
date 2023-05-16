@@ -20,7 +20,7 @@ The `CheckPubKey` class verifies the presence of a specific file inside the SSH 
 
 2. Navigate to the project directory:
         
-        cd ssh-key-creation
+        cd sshkey-creation
 
 3. Create and activate a virtual environment (optional but recommended):
 
