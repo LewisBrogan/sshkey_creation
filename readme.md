@@ -16,7 +16,7 @@ The `CheckPubKey` class verifies the presence of a specific file inside the SSH 
 
 1. Clone the repository: 
         
-        git clone https://github.com/LewisBrogan/ssh-key-creation.git
+        git clone git@github.com:LewisBrogan/sshkey_creation.git
 
 2. Navigate to the project directory:
         
